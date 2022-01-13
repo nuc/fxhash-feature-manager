@@ -1,6 +1,6 @@
 {
   "name": "fxhash-feature-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "bundle.js",
   "repository": "git@github.com:nuc/fxhash-feature-manager.git",
   "author": "Georgios Giannoutsos Barkas <me@nuc.gr>",
