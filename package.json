@@ -1,8 +1,14 @@
 {
   "name": "fxhash-feature-manager",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "bundle.js",
   "repository": "git@github.com:nuc/fxhash-feature-manager.git",
   "author": "Georgios Giannoutsos Barkas <me@nuc.gr>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup index.js --file bundle.js --format cjs"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.7"
+  }
 }
