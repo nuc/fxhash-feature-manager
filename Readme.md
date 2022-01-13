@@ -17,8 +17,6 @@ if (process.env.NODE_ENV === 'development') {
 
 // export to $fxhashFeatures
 window.$fxhashFeatures = manager.export()
-
-```
  
 // get the actual value of a property
 shader.setUniform('u_age', manager.getValue('age'))
