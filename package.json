@@ -5,6 +5,7 @@
   "repository": "git@github.com:nuc/fxhash-feature-manager.git",
   "author": "Georgios Giannoutsos Barkas <me@nuc.gr>",
   "license": "MIT",
+  "homepage": "https://github.com/nuc/fxhash-feature-manager",
   "scripts": {
     "build": "rollup index.js --file bundle.js --format cjs"
   },
