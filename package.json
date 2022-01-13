@@ -1,0 +1,8 @@
+{
+  "name": "fxhash-feature-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nuc/fxhash-feature-manager.git",
+  "author": "Georgios Giannoutsos Barkas <me@nuc.gr>",
+  "license": "MIT"
+}
